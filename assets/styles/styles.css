@@ -1,0 +1,16 @@
+    /* Main headers */
+    h1 {
+      font-size: 32px;
+      color:teal;
+    } 
+
+    img {
+      width: 100%;
+      height: auto;
+      display: inline-block;
+    }
+
+    .container {
+
+     background-color: white; 
+    }
