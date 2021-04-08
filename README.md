@@ -29,12 +29,15 @@ I have also created a landing page, a page where we can see a comparison of all 
 Max Temperature Visualization
 <br>![image](https://user-images.githubusercontent.com/69221324/114075976-2176e380-9874-11eb-917c-5625485c83b2.png)
 <br><br>
+
 Humidity Visualization
 <br>![image](https://user-images.githubusercontent.com/69221324/114076032-305d9600-9874-11eb-9b33-f89fe88aa9d9.png)
 <br><br>
+
 Cloudiness Visualization
 <br>![image](https://user-images.githubusercontent.com/69221324/114076075-3c495800-9874-11eb-8574-9359ee62ab4d.png)
 <br><br>
+
 Windiness Visualization
 <br>![image](https://user-images.githubusercontent.com/69221324/114076117-4c613780-9874-11eb-81ab-d89782367db7.png)
 
