@@ -26,6 +26,7 @@ I have also created a landing page, a page where we can see a comparison of all 
   - The plot/visualization itself for the selected comparison.
   - A paragraph describing the plot and its significance.
 <br>
+
 Max Temperature Visualization
 <br>![image](https://user-images.githubusercontent.com/69221324/114075976-2176e380-9874-11eb-917c-5625485c83b2.png)
 <br><br>
