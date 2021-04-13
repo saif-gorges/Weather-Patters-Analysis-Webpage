@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Weather Patters Analysis Webpage
 
 ## Table of Contents
   * [Introduction](#introduction)
